@@ -13,15 +13,6 @@ const validateLoginInput = require("../../Validation/Login");
 const User = require("../../Model/User");
 
 
-
-// //@route Get api/users/test
-// //@desc Test users route
-// //@access Public
-// router.post("/auth", passport.authenticate('jwt',{session:false}), (req, res) => {
-//   console.log(req.user, "header");
-//   res.json({ msg: "server Works!" });
-// });
-
 // @route   GET api/users/register
 // @desc    Register user
 // @access  Public

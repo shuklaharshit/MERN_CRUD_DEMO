@@ -74,6 +74,8 @@ export default function AddTodoModal(props) {
             variant="outlined"
             value={description}
             label="Description"
+            multiline
+            rows={3}
             onChange={(e) => {
               setdescription(e.target.value);
             }}
