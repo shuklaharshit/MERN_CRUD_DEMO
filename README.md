@@ -4,7 +4,7 @@ This is pure MERN STACK application developed by Harshit Shukla
 
 ## Demo Link Please Check
 
-# [Harshit MERN Demo](https://soontocome/)
+# [Harshit MERN Demo](https://harshit-mern-demo.netlify.app/)
 
 ### frontend Deployed on [Netlify](https://netlify.com/)
 ### backend Deployed on [Render](https://render.com/)
